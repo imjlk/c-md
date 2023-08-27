@@ -638,7 +638,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@oclif/core@npm:^2, @oclif/core@npm:^2.8.2, @oclif/core@npm:^2.9.3, @oclif/core@npm:^2.9.4":
+"@oclif/core@npm:^2, @oclif/core@npm:^2.11.10, @oclif/core@npm:^2.8.2, @oclif/core@npm:^2.9.3, @oclif/core@npm:^2.9.4":
   version: 2.11.10
   resolution: "@oclif/core@npm:2.11.10"
   dependencies:
@@ -730,13 +730,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@oclif/test@npm:^2.4.0":
-  version: 2.4.0
-  resolution: "@oclif/test@npm:2.4.0"
+"@oclif/test@npm:^2.4.7":
+  version: 2.4.7
+  resolution: "@oclif/test@npm:2.4.7"
   dependencies:
-    "@oclif/core": ^2.9.4
-    fancy-test: ^2.0.31
-  checksum: 3d9cf26cf3aa026f48eea9466effd915e4227002a1dcd11eede62790d103a49acd1eff854bf20575bf10c27f144fc2de63f4980ceae6746dd91cb73e013eb8da
+    "@oclif/core": ^2.11.10
+    fancy-test: ^2.0.34
+  checksum: 908b7b280b5e9c7b7ab43e5615bfc0e3c7bc8988939553a6a1d3d703fa17ed7bec16f2ab00a88ed1176398b04bd49065e54961b3b4256e82603866c9f06f63b1
   languageName: node
   linkType: hard
 
@@ -1667,7 +1667,7 @@ __metadata:
     "@oclif/core": ^2
     "@oclif/plugin-help": ^5
     "@oclif/plugin-plugins": ^2.4.7
-    "@oclif/test": ^2.4.0
+    "@oclif/test": ^2.4.7
     "@types/chai": ^4
     "@types/mocha": ^9.0.0
     "@types/node": ^16.18.39
@@ -2926,9 +2926,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fancy-test@npm:^2.0.31":
-  version: 2.0.32
-  resolution: "fancy-test@npm:2.0.32"
+"fancy-test@npm:^2.0.34":
+  version: 2.0.36
+  resolution: "fancy-test@npm:2.0.36"
   dependencies:
     "@types/chai": "*"
     "@types/lodash": "*"
@@ -2936,9 +2936,9 @@ __metadata:
     "@types/sinon": "*"
     lodash: ^4.17.13
     mock-stdin: ^1.0.0
-    nock: ^13.3.2
+    nock: ^13.3.3
     stdout-stderr: ^0.1.9
-  checksum: fd797d90c359471611d68bb472ebcdcd3ff5d1602f31813bd4e67bf7039bec7fd6fa2545d78c071d0c6b362c06d1e132843900ce1a1dd5d1a3e85ad7047a111a
+  checksum: 20934b5206c6d2a6fb1a3552b3ce8382af20dd135acd2a5270b8205c10cf9484dfb19f840b23141b989acad970856ae9993a16fd3bbe62f6229d905c5052ab73
   languageName: node
   linkType: hard
 
@@ -4982,15 +4982,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nock@npm:^13.3.2":
-  version: 13.3.2
-  resolution: "nock@npm:13.3.2"
+"nock@npm:^13.3.3":
+  version: 13.3.3
+  resolution: "nock@npm:13.3.3"
   dependencies:
     debug: ^4.1.0
     json-stringify-safe: ^5.0.1
     lodash: ^4.17.21
     propagate: ^2.0.0
-  checksum: 1d7d5fda1816a3a0d2cb47f10283db139fcd15be6975db6f9b260efa781d5f0eeadf9bd7aab6db61191c519dd99bcd4c5c061e77880341be60abc39cd6163c1f
+  checksum: e3e4f0fb777ac63d74f89bbb7aebe8e815b891b64ac71983d91686f725fdab856fe189cf2fe23d4add9f5dd5da53f3568106a61116a771ce0f4ed0f5ad7b035b
   languageName: node
   linkType: hard
 
