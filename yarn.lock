@@ -730,13 +730,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@oclif/test@npm:^2.4.7":
-  version: 2.4.7
-  resolution: "@oclif/test@npm:2.4.7"
+"@oclif/test@npm:^2.5.1":
+  version: 2.5.1
+  resolution: "@oclif/test@npm:2.5.1"
   dependencies:
     "@oclif/core": ^2.11.10
-    fancy-test: ^2.0.34
-  checksum: 908b7b280b5e9c7b7ab43e5615bfc0e3c7bc8988939553a6a1d3d703fa17ed7bec16f2ab00a88ed1176398b04bd49065e54961b3b4256e82603866c9f06f63b1
+    fancy-test: ^2.0.35
+  checksum: 51ba33c35f3ef0a7e832b2867526c5fb68fd40e4081117f1458ce5b373ef887005728c256cc63f40b95d0926b1599ec1a5445fd7adcce43cd03c8e8bcd844898
   languageName: node
   linkType: hard
 
@@ -1667,7 +1667,7 @@ __metadata:
     "@oclif/core": ^2
     "@oclif/plugin-help": ^5
     "@oclif/plugin-plugins": ^2.4.7
-    "@oclif/test": ^2.4.7
+    "@oclif/test": ^2.5.1
     "@types/chai": ^4
     "@types/mocha": ^9.0.0
     "@types/node": ^16.18.39
@@ -2926,9 +2926,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fancy-test@npm:^2.0.34":
-  version: 2.0.36
-  resolution: "fancy-test@npm:2.0.36"
+"fancy-test@npm:^2.0.35":
+  version: 2.0.37
+  resolution: "fancy-test@npm:2.0.37"
   dependencies:
     "@types/chai": "*"
     "@types/lodash": "*"
@@ -2938,7 +2938,7 @@ __metadata:
     mock-stdin: ^1.0.0
     nock: ^13.3.3
     stdout-stderr: ^0.1.9
-  checksum: 20934b5206c6d2a6fb1a3552b3ce8382af20dd135acd2a5270b8205c10cf9484dfb19f840b23141b989acad970856ae9993a16fd3bbe62f6229d905c5052ab73
+  checksum: 3b5a1098c4d1875cdd5e878043e273283c16b7ac0b1c6a55380d0a3a37cc4eb63c5487f62fefed4ddbf1fe81b0aa340b7bef6d47cbf3640cf90ffdfc043d1a40
   languageName: node
   linkType: hard
 
